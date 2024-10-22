@@ -1,0 +1,25 @@
+
+p:nth-of-type(1) {
+    color: coral;
+  }
+  
+  
+  p:nth-of-type(2) {
+    font-size: 2rem; 
+  }
+  
+  
+  p:nth-of-type(3) {
+    font-weight: 900;
+  }
+  
+  @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400&display=swap');
+  p:nth-of-type(4) {
+    font-family: 'Caveat', cursive;
+    font-weight: 400; 
+  }
+  
+  
+  p:nth-of-type(5) {
+    text-align: right;
+  }
